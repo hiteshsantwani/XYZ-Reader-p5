@@ -1,4 +1,4 @@
-# BuildItBigger
+# MakeYourAppMaterial
 This is the XYZ Reader(P5) project under Udacity Android Nanodegree Program
 
 Getting Started
@@ -8,7 +8,7 @@ This sample uses the Gradle build system.  To build this project, use the
 
 
 
-## User Feedback for Stock Hawk:
+## User Feedback:
 
 * This app is starting to shape up but it feels a bit off in quite a few places. I can't put finger on it but it feels odd.
 * Is the text supposed to be so wonky and unreadable? It is not accessible to those of us without perfect vision.
